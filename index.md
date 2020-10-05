@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+<center>
+<div id="head">
+<table border="1">
 
-You can use the [editor on GitHub](https://github.com/nc-0619/0.0/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<tr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<td>S</td><td>N</td><td>世</td><td>界</td><td>賽</td><td>加</td><td>油</td><td>！</td>
 
-### Markdown
+</tr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+</table>
 
-# Header 1
-## Header 2
-### Header 3
+<table width="1000" border="0" cellpadding="0" cellspacing="0">
 
-- Bulleted
-- List
+<tr>
 
-1. Numbered
-2. List
+<td><img src="https://puataiwan.com/wp-content/uploads/2020/08/1598137618.png" width="1000" height="500"></td>
 
-**Bold** and _Italic_ and `Code` text
+</tr>
 
-[Link](url) and ![Image](src)
-```
+<tr>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<td align="center">聯大文創某SN小粉絲的網頁</td>
 
-### Jekyll Themes
+</tr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nc-0619/0.0/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</table>
+</div>
 
-### Support or Contact
+<div id="nav1"><br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<table width="1000" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
+
+<tr>
+
+<td align="left" bgcolor="#ffffff"><a href="https://lol.gamepedia.com/Bin_(Chen_Ze-Bin)">bin</a> ＞ 
+<a href="https://lol.gamepedia.com/SofM">sofm</a> ＞ 
+<a href="https://lol.gamepedia.com/Angel">angel</a> ＞ 
+<a href="https://lol.gamepedia.com/Huanfeng">huanfeng</a> ＞ 
+<a href="https://lol.gamepedia.com/SwordArt">swordart</a>
+</td>
+
+</tr>
+
+</table>
+</div>
+</body>
+</html>

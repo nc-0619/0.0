@@ -9,7 +9,7 @@
 
 <tr>
 
-<td>S</td><td>N</td><td>世</td><td>界</td><td>賽</td><td>加</td><td>油</td><td>！</td>
+<td align="center">S</td><td>N</td><td>世</td><td>界</td><td>賽</td><td>加</td><td>油</td><td>！</td>
 
 </tr>
 

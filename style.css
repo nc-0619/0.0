@@ -13,7 +13,7 @@ h1 {
 
 /* 選單 */
 .navigation ul {
-    background-color: #000000;
+    background-color: #4b1900;
     margin: 0;
     padding: 4px;
     text-align: center;
@@ -34,8 +34,8 @@ h1 {
 
 /* 主視覺 */
 .mainvisual {
-    background-color: #743813;
-    border-bottom: solid 3px #000000;
+    background-color: #824c20;
+    border-bottom: solid 3px #ffffff;
 }
 .mainvisual img {
     display: block;
@@ -51,7 +51,7 @@ article {
 
 /* 背景色・文字色 */
 #profile {
-    background-color: #6b3008;
+    background-color: #4b1900;
     color: #ffffff;
 }
 
@@ -78,7 +78,7 @@ h2 {
 }
 
 h3 {
-    border-left: solid 6px #6b3008;
+    border-left: solid 6px #4b1900;
     padding-left: 6px;
 }
 
@@ -88,11 +88,11 @@ table {
     width: 100%;
 }
 th,td {
-    border: solid 1px #999999;
+    border: solid 1px #4b1900;
     padding: 16px;
 }
 th {
-    background-color: #62d5e8;
+    background-color: #ffffff;
 }
 
 /* 作品集 */
@@ -128,6 +128,5 @@ th {
 ol li {
     list-style-type: upper-roman;
 }
-
 
 

@@ -28,13 +28,13 @@ h1 {
     text-decoration: none;
 }
 .navigation ul li a:hover {
-    color: #62d5e8;
+    color: #fcb8aa;
     text-decoration: underline;
 }
 
 /* 主視覺 */
 .mainvisual {
-    background-color: #62d5e8;
+    background-color: #fcb8aa;
     border-bottom: solid 3px #000000;
 }
 .mainvisual img {
@@ -92,7 +92,7 @@ th,td {
     padding: 16px;
 }
 th {
-    background-color: #62d5e8;
+    background-color: #fcb8aa;
 }
 
 /* 作品集 */

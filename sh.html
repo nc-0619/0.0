@@ -16,6 +16,63 @@ h2{color:#232222;}
 h4{color:#232222;}
 </style>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<style type="text/css">
+p{
+color:#ffffff;
+margin:5px ;
+cursor:pointer ;
+}
+p:hover{
+background: #cceef7 ;
+}
+.Chinaairline{
+position:fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+z-index: 10;
+background: rgba(255,222,213,0.8);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+                                      .fause{
+                                                         position:fixed;
+top:0;
+right: 0;
+width: 10;
+height:10;
+                                                         z-index: 10;
+display: flex;
+justify-content: right;
+align-items: right;
+
+</style>
+</head>
+<body>
+<p>特賣商品>義式冰淇淋</p>
+<div class="Chinaairline">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-QFiZqHV3Qn2swQbXuwcO0HM5uEdwJTtZxA&usqp=CAU">
+</div> 
+
+                   <div class="fause">
+                  <img src="data:image/png;base64,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" width="50" height="50" >
+                  </div>
+
+<script type="text/javascript"> 
+$('p').click(function(){
+$('.Chinaairline').slideToggle();
+                                                         $('.fause').slideToggle();
+                                                     
+});
+$('.fause').click(function(){
+$('.fause').slideToggle();
+                                                         $('.Chinaairline').slideToggle();
+});
+</script>
+
 <header>
 <h1>sweet house</h1>
 <nav class="navigation">
